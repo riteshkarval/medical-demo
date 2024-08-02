@@ -3,5 +3,5 @@ opencv-python
 pillow
 numpy
 scipy
-Keras==2.3.1
+Keras==2.13.1
 scikit-learn
